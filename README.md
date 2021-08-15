@@ -1,6 +1,9 @@
 ## About
 Colorful and responsive website 🧁
 
+## Goal
+Understand key concepts of responsive websites using Bootstrap
+
 ## Technologies
 - HTML
 - CSS
